@@ -1,14 +1,16 @@
-import 'react';
-import 'react-dom';
-import 'react-router';
-import 'react-router-dom';
-import 'redux';
-import 'react-redux';
-import 'redux-logger';
-import 'redux-thunk';
+import "react";
+import "react-dom";
+import "react-router";
+import "react-router-dom";
+import "redux";
+import "react-redux";
+import "redux-logger";
+import "redux-thunk";
+import "highcharts";
+import "highcharts=react-official";
 
 //Third party packages
-import 'jquery';
-import 'popper.js';
-import 'bootstrap/dist/js/bootstrap';
-import 'bootswatch/dist/united/bootstrap.min.css';
+import "jquery";
+import "popper.js";
+import "bootstrap/dist/js/bootstrap";
+import "bootswatch/dist/united/bootstrap.min.css";

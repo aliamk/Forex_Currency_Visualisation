@@ -1,4 +1,4 @@
-import { STOCK_TIME_SERIES_DAILY, STOCK_TIME_SERIES_WEEKLY, STOCK_TIME_SERIES_MONTHLY, MULTIPLES_STOCKS_SERIES_MONTHLY } from "../actions/highcharts-action-types";
+import { STOCK_TIME_SERIES_DAILY, STOCK_TIME_SERIES_WEEKLY, STOCK_TIME_SERIES_MONTHLY, MULTIPLE_STOCKS_SERIES_MONTHLY } from "../actions/highcharts-action-types";
 
 const initialState = {
   dailyStocks: {},

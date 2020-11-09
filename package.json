@@ -27,9 +27,9 @@
     "mini-css-extract-plugin": "0.4.1",
     "optimize-css-assets-webpack-plugin": "5.0.0",
     "style-loader": "^0.23.1",
-    "uglifyjs-webpack-plugin": "1.2.7",
-    "webpack": "4.16.5",
-    "webpack-cli": "3.1.0",
+    "uglifyjs-webpack-plugin": "^2.2.0",
+    "webpack": "^4.16.5",
+    "webpack-cli": "^3.3.12",
     "webpack-dev-server": "^3.8.0",
     "webpack-merge": "4.1.4"
   },
@@ -47,6 +47,7 @@
     "react-router-dom": "^5.1.1",
     "redux": "^4.0.4",
     "redux-logger": "^3.0.6",
-    "redux-thunk": "^2.3.0"
+    "redux-thunk": "^2.3.0",
+    "serialize-javascript": "^5.0.1"
   }
 }

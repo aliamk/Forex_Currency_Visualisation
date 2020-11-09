@@ -1,4 +1,4 @@
-import { STOCK_TIME_SERIES_DAILY, STOCK_TIME_SERIES_WEEKLY, MULTIPLES_STOCKS_SERIES_MONTHLY, MULTIPLES_STOCKS_SERIES_MONTHLY } from "./highcharts-action-types";
+import { STOCK_TIME_SERIES_DAILY, STOCK_TIME_SERIES_WEEKLY, MULTIPLE_STOCKS_SERIES_MONTHLY, MULTIPLE_STOCKS_SERIES_MONTHLY } from "./highcharts-action-types";
 
 // The variable getDailyStocksTimeSeries is assigned a function that takes a single parameter:  symbol
 // The parameter 'symbol' returns another function which takes a parameter: dispatch

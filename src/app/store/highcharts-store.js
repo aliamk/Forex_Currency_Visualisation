@@ -11,6 +11,6 @@ const initialState = {};
 
 // Assign 'createStore' as a function to the HighchartsStore variable and pass the reducers (combined),
 // the store's initial state and the function 'applyMiddleWares' with the middlewares array as parameters
-const HighchartsStore = createStore(reducers, initialState, applyMiddleware(...middlewares));
+const HighchartsStore = createStore(reducers, initialState, applyMiddleware(...middleWares));
 
 export default HighchartsStore;
